@@ -1,0 +1,8 @@
+本软件使用 Python、SQLite、PySide6/Qt 和 PyInstaller。
+PySide6/Qt：LGPLv3 / GPL / 商业许可。此项目使用 LGPLv3 发行组件。
+Qt 库保持动态链接，源码及构建脚本随软件提供，可自行更换库后重新构建。
+PySide6 源码：https://code.qt.io/pyside/pyside-setup.git
+Qt 源码：https://code.qt.io/qt/
+Python：https://www.python.org/psf/license/
+SQLite：https://sqlite.org/copyright.html
+PyInstaller：https://pyinstaller.org/en/stable/license.html
