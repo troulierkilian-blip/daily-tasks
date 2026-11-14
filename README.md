@@ -26,3 +26,11 @@ py -3.10 -m venv .venv
 ```
 
 运行 `powershell -ExecutionPolicy Bypass -File .\重新打包.ps1` 可执行测试并生成 `dist\每日任务.exe`。第三方组件的许可文本见 [licenses](licenses/)。
+
+## 支持项目
+
+如果「每日任务」帮到了你，欢迎通过支付宝或微信扫码打赏。感谢你的支持！
+
+| 支付宝 | 微信 |
+| :---: | :---: |
+| <img src="assets/sponsors/alipay.jpg" alt="支付宝收款码" width="220"> | <img src="assets/sponsors/wechat.jpg" alt="微信收款码" width="220"> |
